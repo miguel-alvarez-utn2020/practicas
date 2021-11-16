@@ -1,0 +1,21 @@
+.tarjeta{
+    width: 80%;
+    margin: 0 auto 10px auto;
+    padding: 20px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, .6);
+}
+.tarjeta__heading{
+    color: darkred;
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.btn{
+    width: 100%;
+    display: block;
+    margin: 20px auto;
+    background-color: darkseagreen;
+}
